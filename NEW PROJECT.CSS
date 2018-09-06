@@ -1,0 +1,41 @@
+body {
+    
+    background-image: url("C:\Users\amtul\Desktop\devcodecamp\assignment\pictures\water.jpg");
+}
+
+.FIRSTPAGEclass {
+    font-size:200px;
+}
+.intro-text {
+    font-size: 125px;
+    letter-spacing: 5px
+}
+.secondClass {
+    font-size: 500px;
+  }
+
+.background-image {
+    background-image: url("assignment/pictures/water.jpg")
+   
+}
+                    
+     div.gallery {
+        margin: 5px;
+        border: 1px solid #ccc;
+        float: left;
+        width: 180px;
+    }
+    
+    div.gallery:hover {
+        border: 1px solid #777;
+    }
+    
+    div.gallery img {
+        width: 100%;
+        height: auto;
+    }
+    
+    div.desc {
+        padding: 15px;
+        text-align: center;
+    }

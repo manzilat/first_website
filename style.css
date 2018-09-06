@@ -1,0 +1,28 @@
+body {
+    background-color :rgb(255, 216, 213);
+
+}
+h1 {
+    color: tan; 
+}
+
+div {
+    width: 1000px;
+    height: 100px;
+    background-color: yellow;
+    border: 1px solid black;
+}
+#rcorners2 {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;    
+}
+.redBorder {
+    border: 2px solid Tomato;
+}
+.background-image {
+    background-image: url("assignment/pictures/water.jpg")
+   
+}
